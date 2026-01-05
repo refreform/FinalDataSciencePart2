@@ -1,0 +1,12 @@
+name: WordPredictor
+title: WordPredictor
+username: refreform
+account: refreform
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16372191
+bundleId: 11400569
+url: https://refreform.shinyapps.io/WordPredictor/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
