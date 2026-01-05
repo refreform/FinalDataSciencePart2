@@ -9,7 +9,7 @@ library(slam)
 set.seed(237237021)
 file1 <- "en_US.twitter.txt"
 file2 <- "en_US.news.txt"
-file3 <- "C:/Users/paluc/Documents/Data-Product-Class/Coursera-SwiftKey/en_US.blogs.txt"
+file3 <- "en_US.blogs.txt"
 
 #--------------------
 
